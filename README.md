@@ -1,2 +1,3 @@
-# deepfake-image-detection
-Deep learning project to classify AI-generated and real images using CNN and transfer learning.
+# AI Generated vs Real Image Detection Using Deep Learning
+
+This project uses deep learning and transfer learning techniques to classify whether an image is real or AI-generated.
